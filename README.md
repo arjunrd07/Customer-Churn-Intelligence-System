@@ -251,9 +251,3 @@ streamlit run app.py
 
 ---
 
-## 👩‍💻 Author
-
-**Sanjana Monteiro**
-
-Data Science & Analytics Student
-Synent Technologies Data Science Intern
